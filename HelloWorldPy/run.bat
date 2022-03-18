@@ -1,3 +1,3 @@
 @echo off
 python HelloWorld.py
-pause
+pause > nul
