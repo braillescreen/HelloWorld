@@ -1,2 +1,2 @@
 echo "Hello, world!"
-pause
+pause > nul

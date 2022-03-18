@@ -1,3 +1,3 @@
 @echo off
 rustc HelloWorld.rs
-pause
+pause > nul

@@ -1,3 +1,3 @@
 @echo off
 java HelloWorld.java
-pause
+pause > nul
